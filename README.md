@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sabalex01
-- 👀 I’m interested in bioinformatics, mainly bulk RNAseq data.
-- 🌱 I’m currently learning R scripting and implemention of statistical methods fitting explorative RNAseq data analysis. Working on WGCNA atm
-- 📫 How to reach me, by email: s.l.m.murphy@ous-research.no
+- 👋 Hi, I’m @Sabalex01, a postdoctoral researcher
+- 👀 I’m interested in immunopathology and try to apply bioinformatics to understand immune-pathogen and immune-tissue cross-talk.
+- 🌱 I’m currently learning more on spatial transcriptomics and how to analyse Clonal hematopoiesis of indeterminate potential (CHIP) in various diseases.
+- 📫 How to reach me, by email: sarmur@ous-hf.no
 
 <!---
 Sabalex01/Sabalex01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
